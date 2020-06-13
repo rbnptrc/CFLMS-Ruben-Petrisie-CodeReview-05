@@ -31,8 +31,8 @@ function like(number) {
     $(`.circle.movie-${number}`).text(likes += 1);
     console.log(number);
 
-    likes = $(`.circle.movie-1${movie.post}`).text(likes)
-    likes = parseInt(number)
+    likes = $(`.circle.movie-1${movie.post}`).text(number)
+    likes = parseInt(likes)
     likes = +1
 
 }
