@@ -1,37 +1,37 @@
 [{
     "name": "Die Another Day",
     "descrpt": "a 2002 spy film and the twentieth film in the James Bond series produced by Eon Productions.",
-    "image": "images/DieAnotherDay.jpg",
+    "image": "/images/DieAnotherDay.jpg",
     "icon": "",
     "post": 1
 }, {
     "name": "Ice Age",
     "descrpt": "an American media franchise centering on a group of mammals surviving the Paleolithic ice age.",
-    "image": "images/ice age.jpg",
+    "image": "/images/ice age.jpg",
     "icon": "",
     "post": 2
 }, {
     "name": "Pulp Fiction",
     "descrpt": " a 1994 American independent neo-noir crime film written and directed by Quentin Tarantino, who conceived it with Roger Avary",
-    "image": "images/Pulp Fiction.jpg",
+    "image": "/images/Pulp Fiction.jpg",
     "icon": "",
     "post": 3
 }, {
     "name": "The Boss Baby",
     "descrpt": "a 2017 American computer-animated comedy film produced by DreamWorks Animation and distributed by 20th Century Fox.",
-    "image": "images/the boss baby.jpg",
+    "image": "/images/the boss baby.jpg",
     "icon": "",
     "post": 4
 }, {
     "name": "The Hateful Eight",
     "descrpt": " a 2015 American western thriller film written and directed by Quentin Tarantino. It stars Samuel L. Jackson.",
-    "image": "images/the-hateful-eight.jpg",
+    "image": "/images/the-hateful-eight.jpg",
     "icon": "",
     "post": 5
 }, {
     "name": "The Avengers",
     "descrpt": "a 2012 American superhero film based on the Marvel Comics superhero team of the same name.",
-    "image": "images/TheAvengers.jpg",
+    "image": "/images/TheAvengers.jpg",
     "icon": "",
     "post": 6
 }]
