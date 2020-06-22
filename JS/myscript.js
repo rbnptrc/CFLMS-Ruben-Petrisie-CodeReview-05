@@ -20,9 +20,8 @@ $(document).ready(function() {
     });
     $(".rate").on("click", function() {
         console.log($(this).attr("class"));
-        // enter what the function does here
+
     });
-    /*var likes = 0; // change to let*/
 
 
 });
@@ -37,7 +36,7 @@ function like(number) {
     $(`.circle.movie-${number}`).text(likes);
 
 }
-// Click for Likes - it works fine
+
 
 $(document).ready(function() {
     $("span").click(function() {
